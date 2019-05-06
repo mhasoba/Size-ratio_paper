@@ -1,0 +1,1 @@
+# Code and Data for the Size Ratio paper: "Interaction dimensionality scales up to generate bimodal consumer-resource size-ratio distributions in ecological communities"
